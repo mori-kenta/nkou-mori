@@ -433,8 +433,8 @@
 #pagebody{
     width: 100%;
     margin: 0 auto;
-    padding: 40px 0 0 0;
-    border-top: solid 1px black;
+    padding: 50px 0 80px 0;
+    border-top: solid 1px gainsboro;
 }
 
 
@@ -491,6 +491,8 @@
     width: 270px;
     border-bottom: solid 1px black;
     margin: 0;
+    font-size: 26px;
+    font-weight: inherit;
 }
 #pagebody #articleDetail-2 .articleBody-2{
     border: solid 1px black;
@@ -601,6 +603,8 @@
     width: 270px;
     border-bottom: solid 1px black;
     margin: 0;
+    font-size: 26px;
+    font-weight: inherit;
 }
 
 #pagebody #articleDetail-3 .articleBody-3{
@@ -679,6 +683,8 @@
     width: 100%;
     margin: 0 auto;
     background-color: #f7f7f7;
+    border-top: solid 1px gainsboro;
+    border-bottom: solid 1px gainsboro;
 }
 #pagebody #articleDetail-4{
     width: 1040px;
@@ -703,7 +709,7 @@
     bottom: 0;
     width: 200px;
     height: 0;
-    border-bottom: 1px solid #18226b;
+    border-bottom: 0.8px solid #18226b;
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
 }
@@ -730,7 +736,7 @@
     display: table;
     width: 280px;
     margin: 0;
-    padding: 0 0 0 40px;
+    padding: 0 0 0 35px;
 }
 #pagebody #articleDetail-4 .articleBody-4 .articleTable-4 a{
     text-decoration: none;
@@ -904,7 +910,7 @@
     bottom: 0;
     width: 200px;
     height: 0;
-    border-bottom: 1px solid #18226b;
+    border-bottom: 0.8px solid #18226b;
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
 }
@@ -930,7 +936,7 @@
     display: table;
     width: 280px;
     margin: 0;
-    padding: 0 0 0 40px;
+    padding: 0 0 0 35px;
 }
 #pagebody #article-5 #articleDetail-5 .article-5-1 .articleBody-5-1 .articleTable-5-1 a{
     text-decoration: none;
@@ -1065,8 +1071,1675 @@
 
 
 
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3{
+    margin: 0 0 110px 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .img-1{
+    float: left;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 35px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3:hover{
+    opacity: 0.7;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 103px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 .img-2 img{
+    width: 103px;
+    height: 14px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 275px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 a p{
+    text-align: justify;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-3 .articleBody-5-3 .articleTable-5-3 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+}
 
 
+
+
+
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4{
+    margin: 0 0 110px 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .img-1{
+    float: right;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4:hover{
+    opacity: 0.7;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 103px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 .img-2 img{
+    width: 103px;
+    height: 14px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: -2px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 a p{
+    text-align: justify;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-4 .articleBody-5-4 .articleTable-5-4 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+}
+
+
+
+
+
+
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5{
+    margin: 0 0 110px 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .img-1{
+    float: left;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 35px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5:hover{
+    opacity: 0.7;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 103px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 .img-2 img{
+    width: 103px;
+    height: 14px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 275px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 a p{
+    text-align: justify;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-5 .articleBody-5-5 .articleTable-5-5 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+}
+
+
+
+
+
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6{
+    margin: 0 0 110px 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .img-1{
+    float: right;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6:hover{
+    opacity: 0.7;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 103px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 .img-2 img{
+    width: 103px;
+    height: 14px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: -2px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 a p{
+    text-align: justify;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-6 .articleBody-5-6 .articleTable-5-6 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+}
+
+
+
+
+
+
+
+
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7{
+    margin: 0 0 110px 0;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .img-1{
+    float: left;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 35px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7:hover{
+    opacity: 0.7;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 103px;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 .img-2 img{
+    width: 103px;
+    height: 14px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 275px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 a p{
+    text-align: justify;
+}
+#pagebody #article-5 #articleDetail-5 .article-5-7 .articleBody-5-7 .articleTable-5-7 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+}
+
+
+
+
+
+/* ------------------------ 先端企業が使用するITツールを高校時代から利用 ------------------------ */
+#pagebody #article-6{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    border-top: solid 1px gainsboro;
+    border-bottom: solid 1px gainsboro;
+}
+#pagebody #articleDetail-6{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody #articleDetail-6 .articleTitle-6{
+    text-align: center;
+}
+#pagebody #articleDetail-6 .articleTitle-6 h2{
+    font-size: 33px;
+    font-weight: inherit;
+    margin: 0 0 80px 0;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+#pagebody #articleDetail-6 .articleTitle-6 h2::after{
+    content: '';
+    position: absolute;
+    left: 420px;
+    bottom: 0;
+    width: 200px;
+    height: 0;
+    border-bottom: 0.8px solid #18226b;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+#pagebody #articleDetail-6 .articleBody-6{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-6 .articleBody-6 .img-1{
+    float: right;
+}
+#pagebody #articleDetail-6 .articleBody-6::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6:hover{
+    opacity: 0.7;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 75px;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 .img-2 img{
+    width: 75px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: -2px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-6 .articleBody-6 .articleTable-6 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+
+
+
+/* --------------------- 学校行事はネットとリアルで --------------------- */
+#pagebody #article-7{
+    width: 100%;
+    margin: 0 auto;
+}
+#pagebody #articleDetail-7{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody #articleDetail-7 .articleTitle-7{
+    text-align: center;
+}
+#pagebody #articleDetail-7 .articleTitle-7 h2{
+    font-size: 33px;
+    font-weight: inherit;
+    margin: 0 0 80px 0;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+#pagebody #articleDetail-7 .articleTitle-7 h2::after{
+    content: '';
+    position: absolute;
+    left: 420px;
+    bottom: 0;
+    width: 200px;
+    height: 0;
+    border-bottom: 0.8px solid #18226b;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+#pagebody #articleDetail-7 .articleBody-7{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-7 .articleBody-7 .img-1{
+    float: left;
+}
+#pagebody #articleDetail-7 .articleBody-7::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 35px;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7:hover{
+    opacity: 0.7;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 75px;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 .img-2 img{
+    width: 75px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 275px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-7 .articleBody-7 .articleTable-7 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+
+/* -------------------- N高起業部 -------------------- */
+#pagebody #article-8{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    border-top: solid 1px gainsboro;
+    border-bottom: solid 1px gainsboro;
+}
+#pagebody #articleDetail-8{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody #articleDetail-8 .articleTitle-8{
+    text-align: center;
+}
+#pagebody #articleDetail-8 .articleTitle-8 h2{
+    font-size: 33px;
+    font-weight: inherit;
+    margin: 0 0 80px 0;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+#pagebody #articleDetail-8 .articleTitle-8 h2::after{
+    content: '';
+    position: absolute;
+    left: 420px;
+    bottom: 0;
+    width: 200px;
+    height: 0;
+    border-bottom: 0.8px solid #18226b;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+#pagebody #articleDetail-8 .articleBody-8{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-8 .articleBody-8 .img-1{
+    float: right;
+    width: 720px;
+    height: 480px;
+}
+#pagebody #articleDetail-8 .articleBody-8::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8:hover{
+    opacity: 0.7;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 75px;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 .img-2 img{
+    width: 75px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: -2px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-8 .articleBody-8 .articleTable-8 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+
+
+/* --------------------- 全国の仲間とともに活動する部活動 --------------------- */
+#pagebody #article-9{
+    width: 100%;
+    margin: 0 auto;
+}
+#pagebody #articleDetail-9{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody #articleDetail-9 .articleTitle-9{
+    text-align: center;
+}
+#pagebody #articleDetail-9 .articleTitle-9 h2{
+    font-size: 33px;
+    font-weight: inherit;
+    margin: 0 0 80px 0;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+#pagebody #articleDetail-9 .articleTitle-9 h2::after{
+    content: '';
+    position: absolute;
+    left: 420px;
+    bottom: 0;
+    width: 200px;
+    height: 0;
+    border-bottom: 0.8px solid #18226b;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+#pagebody #articleDetail-9 .articleBody-9{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-9 .articleBody-9 .img-1{
+    float: left;
+}
+#pagebody #articleDetail-9 .articleBody-9::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 35px;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9:hover{
+    opacity: 0.7;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 75px;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 .img-2 img{
+    width: 75px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 275px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-9 .articleBody-9 .articleTable-9 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+
+
+
+/* -------------------- ネットの高校は2つの入学コースが選べます -------------------- */
+#pagebody #article-10{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    border-top: solid 1px gainsboro;
+    border-bottom: solid 1px gainsboro;
+}
+#pagebody #articleDetail-10{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+
+#pagebody #articleDetail-10 .articleTitle-10{
+    text-align: center;
+}
+#pagebody #articleDetail-10 .articleTitle-10 h2{
+    font-size: 33px;
+    font-weight: inherit;
+    margin: 0 0 80px 0;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+#pagebody #articleDetail-10 .articleTitle-10 h2::after{
+    content: '';
+    position: absolute;
+    left: 420px;
+    bottom: 0;
+    width: 200px;
+    height: 0;
+    border-bottom: 0.8px solid #18226b;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+#pagebody #articleDetail-10 .articleBody-10{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-10 .articleBody-10 .img-1{
+    float: right;
+}
+#pagebody #articleDetail-10 .articleBody-10::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10:hover{
+    opacity: 0.7;
+}
+
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: -2px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-10 .articleBody-10 .articleTable-10 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+#pagebody #articleDetail-10 .articleSubBody-10{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .img-1{
+    float: left;
+}
+#pagebody #articleDetail-10 .articleSubBody-10::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0 0 0 35px;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10:hover{
+    opacity: 0.7;
+}
+
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 275px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-105deg);
+    transform: rotate(-105deg);
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-10 .articleSubBody-10 .articleSubTable-10 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+
+/* -------------------- より目的に特化したN高との提携スクール -------------------- */
+#pagebody #article-11{
+    width: 100%;
+    margin: 0 auto;
+}
+#pagebody #articleDetail-11{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody #articleDetail-11 .articleTitle-11{
+    text-align: center;
+}
+#pagebody #articleDetail-11 .articleTitle-11 h2{
+    font-size: 33px;
+    font-weight: inherit;
+    margin: 0 0 80px 0;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+#pagebody #articleDetail-11 .articleTitle-11 h2::after{
+    content: '';
+    position: absolute;
+    left: 420px;
+    bottom: 0;
+    width: 200px;
+    height: 0;
+    border-bottom: 0.8px solid #18226b;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+#pagebody #articleDetail-11 .articleBody-11{
+    margin: 0 0 110px 0;
+}
+#pagebody #articleDetail-11 .articleBody-11 .img-1{
+    float: right;
+    width: 720px;
+    height: 480px;
+}
+#pagebody #articleDetail-11 .articleBody-11::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11{
+    display: table;
+    width: 280px;
+    margin: 0;
+    padding: 0;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 a{
+    text-decoration: none;
+    color: black;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11:hover{
+    opacity: 0.7;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 .img-2{
+    background-color: black;
+    margin: 0 0 20px 0;
+    padding: 2px 10px;
+    width: 75px;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 .img-2 img{
+    width: 75px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 .img-3{
+    margin: 0 0 20px 0;
+    padding: 0 0 0 16px;
+    position: relative;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 .img-3 img{
+    width: 70px;
+    height: 13px;
+    vertical-align: text-bottom;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 .img-3::after{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: -2px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 a h3{
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 a p{
+    text-align: justify;
+}
+#pagebody #articleDetail-11 .articleBody-11 .articleTable-11 a .Content{
+    margin: 0 0 20px 0;
+    line-height: 1.8;
+}
+
+
+#pagebody #NkouWhatis{
+    margin: 100px 0;
+    padding: 0 10px;
+    text-align: center;
+}
+#pagebody #NkouWhatis a:hover{
+    opacity: 0.7;
+}
+
+
+#pagebody .Message1{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    border-top: solid 1px gainsboro;
+    border-bottom: solid 1px gainsboro;
+}
+#pagebody .Message1 .MessageBox1{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody .Message1 .MessageBox1 ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0 0 50px 0;
+    padding: 0;
+}
+
+#pagebody .Message1 .MessageBox1 ul li{
+    display: flex;
+    margin: 0 0 30px 0;
+    padding: 6px;
+    position: relative;
+    background: url("../images/bg_diagonal01_black01.png") 0 0;
+}
+#pagebody .Message1 .MessageBox1 ul li:nth-child(odd){
+    margin: 0 60px 30px 0;
+}
+#pagebody .Message1 .MessageBox1 ul li::after{
+    content: '';
+    position: absolute;
+    top: 47%;
+    right: 30px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+#pagebody .Message1 .MessageBox1 ul li a{
+    text-decoration: none;
+    width: 410px;
+    margin: 0;
+    padding: 8px 42px 12px 26px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: white;
+    color: black;
+    font-weight: lighter;
+    letter-spacing: 0.7px;
+    line-height: 1.8;
+}
+#pagebody .Message1 .MessageBox1 ul li a:hover{
+    opacity: 0.7;
+    background: url("../images/bg_diagonal01_black01.png") 0 0;
+}
+#pagebody .Message1 .MessageBox1 ul li a span.Title{
+    font-size: 25px;
+    align-self: flex-end;
+    display: flex;
+    /* border: 1px solid black; */
+}
+#pagebody .Message1 .MessageBox1 ul li a span.Content{
+    font-size: 13px;
+    align-self: flex-start;
+    display: flex;
+    /* line-height: 2; */
+    /* border: 1px solid black; */
+}
+#pagebody .Message1 .MessageBox1 ul li a span.Content::before{
+    content: "\A";
+    white-space: pre;
+}
+
+#pagebody .Message2{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#pagebody .Message2 .MessageBox2{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px 1px;
+}
+#pagebody .Message2 .MessageBox2 .Box2{
+    margin: 0 0 80px 0;
+    height: 266px;
+}
+#pagebody .Message2 .MessageBox2 iframe{
+    width: 343px;
+    height: 195px;
+}
+#pagebody .Message2 .MessageBox2 p{
+    margin: 0;
+    padding: 0;
+    font-weight: lighter;
+    text-align: center;
+    width: 343px;
+    font-size: 13px;
+}
+
+
+
+#pagefoot{
+    width: 100%;
+    margin: 0 auto;
+}
+#pagefoot .pagefoot1{
+    width: 100%;
+    margin: 0 auto;
+    background: url("../images/footer02_bg01.png") 0 0;
+}
+#pagefoot .pagefoot1 .pagefootBox1{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 35px 10px 20px;
+    /* text-align: center; */
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootTitle1 h3{
+    color: white;
+    margin: 0 0 30px 0;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1{
+    /* border: solid 1px white; */
+    text-align: center;
+}
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1{
+    display: inline-block;
+    /* border: solid 1px white; */
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1 ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1 ul li{
+    margin: 0 0 14px 0;
+    padding: 0;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1 ul li a{
+    background-color: white;
+    width: 216px;
+    padding: 14px 24px 9px 18px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    position: relative;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1 ul li a:hover{
+    opacity: 0.7;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1 ul li a::after{
+    content: '';
+    position: absolute;
+    top: 42%;
+    right: 16px;
+    width: 7px;
+    height: 7px;
+    border-right: 2.5px solid black;
+    border-bottom: 2.5px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto1 ul li a img{
+    width: 29px;
+    height: 27px;
+    margin: 0 16px 3px 0;
+}
+
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2{
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul{
+    margin: 0 0 0 35px;
+    padding: 0;
+    list-style: none;
+    letter-spacing: 0.5px;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-1{
+    margin: 0 0 18px 0;
+    padding: 10px 0 0 0;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-1 a{
+    text-decoration: none;
+    display: flex;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-1 a img{
+    width: 250px;
+    height: 30px;
+}
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-1 span{
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 0 0;
+    padding: 0 0 0 40px;
+}
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-1 span::before{
+    content: "\A";
+    white-space: pre;
+}
+
+
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-2 a{
+    border: solid 1px white;
+    margin: 0 0 0 38px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+    position: relative;
+    height: 18px;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-2 a:hover{
+    text-decoration: underline;
+    color: white;
+}
+#pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-2 a::after{
+    content: '';
+    position: absolute;
+    top: 38%;
+    right: 15px;
+    width: 5px;
+    height: 5px;
+    border-right: 1.5px solid white;
+    border-bottom: 1.5px solid white;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+
+#pagefoot .pagefoot2{
+    width: 100%;
+    margin: 0 auto;
+}
+#pagefoot .pagefoot2 .pagefootBox2{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 70px 10px;
+    /* text-align: center; */
+}
+
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootTitle2 h3{
+    font-size: 16px;
+    margin: 0 0 30px 0;
+    padding: 0 0 0 0;
+    text-align: center;
+    letter-spacing: 0.5px;
+}
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul{
+    list-style: none;
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* align-items: center; */
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li{
+    /* border: solid 1px black; */
+    background: url(../images/bg_diagonal01_black01.png) 0 0;
+    padding: 6px;
+    position: relative;
+}
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li::after{
+    content: '';
+    position: absolute;
+    top: 48%;
+    right: 30px;
+    width: 4px;
+    height: 4px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li a{
+    /* border: solid 1px black; */
+    /* display: block; */
+    background-color: white;
+    padding: 12px 42px 12px 26px;
+    text-decoration: none;
+    color: black;
+    /* text-align: center; */
+    width: 388px;
+    height: 73px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li a:hover{
+    opacity: 0.7;
+    background: url(../images/bg_diagonal01_black01.png) 0 0;
+}
+
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li a img.img-1{
+    width: 134px;
+    height: 35px;
+}
+
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li a img.img-2{
+    width: 122px;
+    height: 45px;
+}
+
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li span{
+    font-size: 13px;
+    display: flex;
+    letter-spacing: 0.5px;
+}
+#pagefoot .pagefoot2 .pagefootBox2 .pagefootContent2 ul li span::before{
+    content: "\A";
+    white-space: pre;
+}
+
+
+#pagefoot .pagefoot3{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+}
+#pagefoot .pagefoot3 .pagefootBox3{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 60px 10px 0;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .HadeRist ul{
+    display: flex;
+    flex-wrap: wrap;
+    /* float: left; */
+    margin: 0 0 70px 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* #pagefoot .pagefoot3 .pagefootBox3 .HadeRist ul:after{
+    content: "";
+    clear: both;
+    display: block;
+} */
+
+
+#pagefoot .pagefoot3 .pagefootBox3 .HadeRist ul li{
+    border-left: solid 1px black;
+    margin: 0 0 0 12px;
+    padding: 0 0 1px 12px;;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .HadeRist ul li:first-child{
+    margin: 0;
+    padding: 0;
+    border-left: none;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .HadeRist ul li a{
+    color: #000066;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .HadeRist a{
+    /* text-align: right; */
+    /* float: right; */
+    /* display: flex; */
+    /* justify-content: flex-end; */
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .HadeRist a img{
+    /* text-align: right; */
+    /* float: right; */
+}
+
+/* #pagefoot .pagefoot3 .pagefootBox3 .HadeRist a:after{
+    content: "";
+    clear: both;
+    display: block;
+} */
+
+
+/* #pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 ul li a{
+    text-decoration: none;
+    color: #000066;
+    font-weight: bold;
+    border: solid 1px black;
+} */
+
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3{
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* justify-content: space-between; */
+    margin: 0 0 40px 0;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox{
+    margin: 0 auto 0 0;
+    display: table;
+    width: 180px;
+    width: 18.53%;
+    /* border: solid 1px black; */
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox:last-child{
+    margin: 0;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox p{
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox p a{
+    color: #000066;
+    text-decoration: none;
+    font-weight: bold;
+    /* display: ruby; */
+}
+[data-ruby]{
+    position: relative;
+}
+
+[data-ruby]::before{
+    content: attr(data-ruby);
+    position: absolute;
+    top: -1em;
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 11px;
+    /* letter-spacing: 4px; */
+    font-weight: lighter;
+}
+/* [data-ruby]::before:hover{
+    text-decoration: underline;
+} */
+
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox p a:hover{
+    color: #000066;
+    text-decoration: underline;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox .Box{
+    margin: 18px 0 10px 0;
+    padding: 22px 0 0 0;
+    border-top: solid 1px gainsboro;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox ul li{
+    margin: 0 0 10px 0;
+    padding: 0;
+    list-style: none;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox ul li a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+#pagefoot .pagefoot3 .pagefootBox3 .pagefootContent3 .ContentBox ul li a span::before{
+    content: "\A";
+    white-space: pre;
+}
+
+
+
+
+#pagefoot .pagefootBox4{
+    width: 1040px;
+    margin: 0 auto;
+    padding: 20px 0 25px;
+    border-top: solid 1px gainsboro;
+    display: flex;
+    justify-content: space-between;
+}
+
+#pagefoot .pagefootBox4 .Content1{
+    margin: 0;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+}
+
+#pagefoot .pagefootBox4 .Content1 ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+#pagefoot .pagefootBox4 .Content1 ul li{
+    margin: 0 20px 0 0;
+    padding: 0;
+    /* border: solid 1px black; */
+}
+#pagefoot .pagefootBox4 .Content1 ul li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+#pagefoot .pagefootBox4 .Content2{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+    /* align-items: center; */
+}
+
+#pagefoot .pagefootBox4 .Content2 ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+#pagefoot .pagefootBox4 .Content2 ul li{
+    margin: 0;
+    padding: 0;
+    /* border: solid 1px gainsboro; */
+    border-left: solid 1px gainsboro;
+    width: 166.7px;
+    height: 46px;
+}
+#pagefoot .pagefootBox4 .Content2 ul li.Content2YouTube{
+    flex-basis: 204.3px;
+}
+
+#pagefoot .pagefootBox4 .Content2 ul li a{
+    display: flex;
+    /* align-items: center; */
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+#pagefoot .pagefootBox4 .Content2 ul li a img{
+    width: 27px;
+    height: 27px;
+    padding: 0 5px 0 0;
+}
+#pagefoot .pagefootBox4 .Content2 ul li a span{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    display: block;
+}
 
 
 
