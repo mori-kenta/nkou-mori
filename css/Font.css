@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: 'myfont';
+    src: url('./font/My_Font.woff') format('woff'),
+         url('./font/My_Font.ttf') format('truetype');
+} */
+
+@font-face {
+    font-family: 'myfont';
+    src: url('Font/ca94208f-21dd-4dc8-ab7c-057d8dbfcccb.woff2') format('woff2'),
+         url('Font/d226afef-6536-4b18-9b28-defffcc4baae.woff2') format('woff2');
+}
