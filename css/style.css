@@ -276,7 +276,8 @@ body{
     height: 31px;
     font-size: 15px;
     color: #18226b;
-    text-shadow: 0.9px 0.4px 0.7px;
+    /* text-shadow: 0.9px 0.4px 0.7px; */
+    font-weight: bold;
 }
 #page #pageHade .gn-typeC ul li.Cfirst .current1{
     display: flex;
