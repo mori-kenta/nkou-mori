@@ -2053,7 +2053,6 @@ body{
 
 
 
-
 /* -------------------- ネットの高校は2つの入学コースが選べます -------------------- */
 #pagebody #article-10{
     width: 100%;
@@ -2435,8 +2434,6 @@ body{
     font-size: 13px;
 }
 
-
-
 #pagefoot{
     width: 100%;
     margin: 0 auto;
@@ -2511,7 +2508,6 @@ body{
     margin: 0 16px 3px 0;
 }
 
-
 #pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2{
     list-style: none;
     display: inline-block;
@@ -2550,7 +2546,6 @@ body{
     white-space: pre;
 }
 
-
 #pagefoot .pagefoot1 .pagefootBox1 .pagefootContent1 .risuto2 ul .r2-2 a{
     border: solid 1px white;
     margin: 0 0 0 38px;
@@ -2580,7 +2575,6 @@ body{
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
 }
-
 
 #pagefoot .pagefoot2{
     width: 100%;
@@ -2667,7 +2661,6 @@ body{
     content: "\A";
     white-space: pre;
 }
-
 
 #pagefoot .pagefoot3{
     width: 100%;
@@ -2809,9 +2802,6 @@ body{
     white-space: pre;
 }
 
-
-
-
 #pagefoot .pagefootBox4{
     width: 1040px;
     margin: 0 auto;
@@ -2876,7 +2866,6 @@ body{
     height: 47px;
 }
 
-
 #pagefoot .pagefootBox4 .Content2 ul li::after{
     content: '';
     position: absolute;
@@ -2890,13 +2879,9 @@ body{
     transform: rotate(-45deg);
 }
 
-
 #pagefoot .pagefootBox4 .Content2 ul li:first-child{
     border-left: none;
 }
-/* #pagefoot .pagefootBox4 .Content2 ul li.Content2YouTube{
-    flex-basis: 204.3px;
-} */
 
 #pagefoot .pagefootBox4 .Content2 ul li a{
     display: flex;
@@ -2917,7 +2902,6 @@ body{
     font-size: 12px;
     display: block;
 }
-
 
 #pagefoot .Copyright{
     width: 100%;
